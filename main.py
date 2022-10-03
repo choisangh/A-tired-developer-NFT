@@ -25,11 +25,15 @@ eyebrow_files = {
 }
 
 
-hair=['hair1']
-hair_weight=[100]
+hair=['hair1','hair2','hair3','hair4','hair5']
+hair_weight=[20,20,20,20,20]
 
 hair_files = {
-    "hair1": "hair1"
+    "hair1": "hair1",
+    "hair2" : "hair2",
+    "hair3" : "hair3",
+    "hair4" : "hair4",
+    "hair5" : "hair5"
 
 }
 
@@ -98,7 +102,7 @@ bg_files = {
 
 
 
-TOTAL_IMAGES = 30
+TOTAL_IMAGES = 100
 
 all_images=[]
 
